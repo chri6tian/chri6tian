@@ -11,3 +11,9 @@ My main tech stack is NodeJS, ExpressJS, and Postgresql, but I have experience w
 - I'm a massive coffee fan
 - I'm a massive fan of mentorship! I have 3-4 mentors personally and I have about 11 mentees myself
 - **Hobbies:** Painting, History, and now recently Mechatronics!
+
+#### Honorable Mentions and Shoutouts:
+- Prof. Derrick Stone
+- Prof. Keith Williams
+- Tyree Mathis
+- Ty'Leik C. Chambers
