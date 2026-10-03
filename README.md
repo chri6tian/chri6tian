@@ -9,7 +9,7 @@ My main tech stack is NodeJS, ExpressJS, and Postgresql, but I have experience w
 #### Fun Facts About Me:
 - I'm a first degree black belt
 - I'm a massive coffee fan
-- I'm a massive fan of mentorship! I have 3-4 mentors personally and I have about 11 mentees myself
+- I'm a massive fan of mentorship, community, and service!
 - **Hobbies:** Painting, History, and now recently Mechatronics!
 
 #### Honorable Mentions and Shoutouts:
